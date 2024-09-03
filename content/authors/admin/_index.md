@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 陆梓倩
+title: 陆 梓 倩
 
 # Name pronunciation (optional)
 name_pronunciation: Lu Zi Qian
@@ -33,23 +33,23 @@ profiles:
   - icon: at-symbol
     url: 'mailto:32620241150918@stu.xmu.edu.cn'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  # - icon: brands/x
+    # url: https://twitter.com/GetResearchDev
+  # - icon: brands/instagram
+    # url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://github.com/fifi0314
+  # - icon: brands/linkedin
+    # url: https://www.linkedin.com/
+  # - icon: academicons/google-scholar
+    # url: https://scholar.google.com/
+  # - icon: academicons/orcid
+    # url: https://orcid.org/
 
 interests:
+  - Medical equipment
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  # - Information Retrieval
 
 education:
   - area: PhD Artificial Intelligence
